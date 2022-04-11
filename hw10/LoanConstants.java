@@ -2,7 +2,7 @@
  * (used in the process of creating loans).
  * Assignment: 10
  * Name: Katherine Nelson
- * Date: 3/27/2022
+ * Date: 4/11/2022
  * Professor: Sheikh Shamsuddin
  * Class Code: CPSC-24500-002
  * File Name: LoanConstants.java
