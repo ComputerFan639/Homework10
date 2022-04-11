@@ -1,7 +1,7 @@
 /* This file contains a subclass of the abstract superclass Loan that represents information about a personal loan.
  * Assignment: 10
  * Name: Katherine Nelson
- * Date: 3/27/2022
+ * Date: 4/11/2022
  * Professor: Sheikh Shamsuddin
  * Class Code: CPSC-24500-002
  * File Name: PersonalLoan.java
